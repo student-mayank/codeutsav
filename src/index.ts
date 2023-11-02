@@ -224,5 +224,5 @@ virtualTour.setNodes(
       ]
     }
   ],
-  "1"
+  "2"
 );
